@@ -656,7 +656,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../../core/achievements.cpp" line="3140"/>
         <source>{:.1f}% of players have this achievement</source>
-        <translation type="unfinished"></translation>
+        <translation>{:.1f}% pemain memiliki pencapaian ini</translation>
     </message>
     <message numerus="yes">
         <location filename="../../core/achievements.cpp" line="3326"/>
@@ -863,7 +863,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="198"/>
         <source>Log Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Level Log</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="198"/>
@@ -873,7 +873,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="199"/>
         <source>Sets the verbosity of messages logged. Higher levels will log more messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengatur tingkat kerincian pencatatan log. Tingkat yang lebih tinggi akan menambah jumlah log.</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="200"/>
@@ -931,7 +931,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="239"/>
         <source>Save State Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompresi Save State</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="245"/>
@@ -980,12 +980,12 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="264"/>
         <source>GPU FIFO Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukuran GPU FIFO</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="265"/>
         <source> words</source>
-        <translation type="unfinished"></translation>
+        <translation> kata</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="266"/>
@@ -1010,7 +1010,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="278"/>
         <source>CD-ROM Mechacon Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi Mechacon CD-ROM</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="282"/>
@@ -1020,7 +1020,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="283"/>
         <source> sectors</source>
-        <translation type="unfinished"></translation>
+        <translation> sektor</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="284"/>
@@ -1065,7 +1065,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="301"/>
         <source>Enable PCDrv</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan PCDrv</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="302"/>
@@ -1075,7 +1075,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="303"/>
         <source>PCDrv Root Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori Root PCDrv</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.ui" line="29"/>
@@ -1085,7 +1085,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.ui" line="35"/>
         <source>Log Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Level Log:</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.ui" line="52"/>
@@ -1114,7 +1114,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../advancedsettingswidget.ui" line="85"/>
         <location filename="../advancedsettingswidget.cpp" line="206"/>
         <source>Log To File</source>
-        <translation type="unfinished"></translation>
+        <translation>Log ke File</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.ui" line="97"/>
@@ -1992,7 +1992,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="444"/>
         <source>Download...</source>
-        <translation type="unfinished"></translation>
+        <translation>Unduh...</translation>
     </message>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="493"/>
@@ -2017,7 +2017,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="175"/>
         <source>Do not show again</source>
-        <translation type="unfinished">Jangan tampilkan lagi</translation>
+        <translation>Jangan tampilkan lagi</translation>
     </message>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="416"/>
@@ -2102,7 +2102,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../biossettingswidget.ui" line="146"/>
         <source>Parallel Port</source>
-        <translation>Port Parallel</translation>
+        <translation>Port Paralel</translation>
     </message>
     <message>
         <location filename="../biossettingswidget.ui" line="152"/>
@@ -2237,7 +2237,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="836"/>
         <source>Enter Group Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan Nama Grup</translation>
     </message>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="836"/>
@@ -2271,7 +2271,8 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../gamecheatsettingswidget.cpp" line="926"/>
         <source>Failed to save cheat code:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menyimpan kode cheat:
+%1</translation>
     </message>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="969"/>
@@ -2289,7 +2290,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../../core/cheats.cpp" line="305"/>
         <source>Gameshark</source>
-        <translation type="unfinished"></translation>
+        <translation>Gameshark</translation>
     </message>
     <message>
         <location filename="../../core/cheats.cpp" line="330"/>
@@ -2377,7 +2378,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../consolesettingswidget.ui" line="45"/>
         <source>Frame Rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frame Rate:</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="57"/>
@@ -2412,13 +2413,13 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../consolesettingswidget.ui" line="99"/>
         <location filename="../consolesettingswidget.cpp" line="116"/>
         <source>Enable Recompiler ICache</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan Recompiler ICache</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="108"/>
         <location filename="../consolesettingswidget.cpp" line="112"/>
         <source>Enable Clock Speed Control (Overclocking/Underclocking)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan Kontrol Clock Speed (Overclocking/Underclocking)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="128"/>
@@ -2469,27 +2470,27 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../consolesettingswidget.ui" line="211"/>
         <source>6x (12x Speed)</source>
-        <translation type="unfinished"></translation>
+        <translation>6x (Kecepatan 12x)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="216"/>
         <source>7x (14x Speed)</source>
-        <translation type="unfinished"></translation>
+        <translation>7x (Kecepatan 14x)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="221"/>
         <source>8x (16x Speed)</source>
-        <translation type="unfinished"></translation>
+        <translation>8x (Kecepatan 16x)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="226"/>
         <source>9x (18x Speed)</source>
-        <translation type="unfinished"></translation>
+        <translation>9x (Kecepatan 18x)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="231"/>
         <source>10x (20x Speed)</source>
-        <translation type="unfinished"></translation>
+        <translation>10x (Kecepatan 20x)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="236"/>
@@ -2585,12 +2586,12 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../consolesettingswidget.cpp" line="86"/>
         <source>Auto-Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Deteksi Otomatis</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="87"/>
         <source>Determines the emulated hardware type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menentukan tipe perangkat keras yang diemulasi</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="89"/>
@@ -2600,7 +2601,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../consolesettingswidget.cpp" line="89"/>
         <source>Disabled</source>
-        <translation type="unfinished">Nonaktif</translation>
+        <translation>Nonaktif</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="90"/>
@@ -2619,12 +2620,12 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../consolesettingswidget.cpp" line="137"/>
         <location filename="../consolesettingswidget.cpp" line="141"/>
         <source>Unchecked</source>
-        <translation type="unfinished">Tidak Dicentang</translation>
+        <translation>Tidak Dicentang</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="95"/>
         <source>Skips the boot animation. Safe to enable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewati animasi boot. Aman untuk diaktifkan</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="97"/>
@@ -2644,32 +2645,32 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../consolesettingswidget.cpp" line="109"/>
         <source>Execution Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode Eksekusi</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="109"/>
         <source>Recompiler (Fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recompiler (Paling Cepat)</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="110"/>
         <source>Determines how the emulated CPU executes instructions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menentukan cara pengeksekusian instruksi CPU yang teremulasi</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="113"/>
         <source>When this option is chosen, the clock speed set below will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ketika opsi ini dipilih, clock speed yang ditetapkan dibawah akan digunakan.</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="114"/>
         <source>Overclocking Percentage</source>
-        <translation type="unfinished"></translation>
+        <translation>Persentase Overclocking</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="114"/>
         <source>100%</source>
-        <translation type="unfinished">100%</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="115"/>
@@ -6806,17 +6807,17 @@ Please check your username and password, and try again.</source>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9487"/>
         <source>Memory Card Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Memory Card Sibuk</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9489"/>
         <source>Memory Card Port {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Port Memory Card {}</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9491"/>
         <source>Memory Card {} Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Memory Card Tipe {}</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9492"/>
@@ -6871,7 +6872,7 @@ Please check your username and password, and try again.</source>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9508"/>
         <source>No Vibration</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanpa Vibrasi/Getar</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9510"/>
@@ -6911,7 +6912,7 @@ Please check your username and password, and try again.</source>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9533"/>
         <source>Overclocking Percentage</source>
-        <translation type="unfinished"></translation>
+        <translation>Persentase Overclock</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9534"/>
@@ -6931,12 +6932,12 @@ Please check your username and password, and try again.</source>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9537"/>
         <source>PGXP Geometry Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreksi Geometri PGXP</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9539"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandi</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9541"/>
@@ -6946,7 +6947,7 @@ Please check your username and password, and try again.</source>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9549"/>
         <source>Per-Game Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasi Per-Game</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9550"/>
@@ -7146,7 +7147,7 @@ Please check your username and password, and try again.</source>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9607"/>
         <source>Resume Last Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanjutkan Sesi Terakhir</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9612"/>
@@ -7216,12 +7217,12 @@ Please check your username and password, and try again.</source>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9630"/>
         <source>Save State Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompresi Save State</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9632"/>
         <source>Saved {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Tersimpan {}</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="9633"/>
@@ -10722,7 +10723,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../gamepatchsettingswidget.ui" line="44"/>
         <source>Disable All Patches</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan Semua Patch</translation>
     </message>
     <message>
         <location filename="../gamepatchsettingswidget.ui" line="67"/>
@@ -10732,7 +10733,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../gamepatchsettingswidget.cpp" line="127"/>
         <source>No patches are available for this game.</source>
-        <translation type="unfinished">Tidak ada patch yang tersedia untuk game ini.</translation>
+        <translation>Tidak ada patch yang tersedia untuk game ini.</translation>
     </message>
 </context>
 <context>
@@ -10775,7 +10776,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../gamesummarywidget.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../gamesummarywidget.ui" line="36"/>
@@ -10805,7 +10806,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../gamesummarywidget.ui" line="149"/>
         <source>Languages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bahasa:</translation>
     </message>
     <message>
         <location filename="../gamesummarywidget.ui" line="195"/>
@@ -15587,7 +15588,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memorycardeditorwindow.cpp" line="482"/>
         <source>Failed to delete file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menghapus file %1</translation>
     </message>
     <message>
         <location filename="../memorycardeditorwindow.cpp" line="503"/>
@@ -15635,18 +15636,19 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memorycardeditorwindow.cpp" line="620"/>
         <source>Select Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih File Save</translation>
     </message>
     <message>
         <location filename="../memorycardeditorwindow.cpp" line="629"/>
         <source>Failed to import save from %1:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gagal mengimpor save dari %1:
+%2</translation>
     </message>
     <message>
         <location filename="../memorycardeditorwindow.cpp" line="662"/>
         <source>Copy File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin File</translation>
     </message>
 </context>
 <context>
@@ -15654,7 +15656,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memorycardrenamefiledialog.ui" line="14"/>
         <source>Rename Memory Card File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ganti Nama Memory Card</translation>
     </message>
     <message>
         <location filename="../memorycardrenamefiledialog.ui" line="44"/>
@@ -15664,7 +15666,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memorycardrenamefiledialog.ui" line="62"/>
         <source>Original Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama Asli:</translation>
     </message>
     <message>
         <location filename="../memorycardrenamefiledialog.ui" line="76"/>
@@ -15684,12 +15686,12 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memorycardrenamefiledialog.ui" line="106"/>
         <source>Full File Name:</source>
-        <translation>Nama File Penuh:</translation>
+        <translation>Nama Lengkap File:</translation>
     </message>
     <message>
         <location filename="../memorycardeditorwindow.cpp" line="784"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak diketahui (%1)</translation>
     </message>
 </context>
 <context>
@@ -15697,7 +15699,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memorycardsettingswidget.cpp" line="31"/>
         <source>All Memory Card Types (*.mcd *.mcr *.mc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Semua Tipe Memory Card (*.mcd *.mcr *.mc)</translation>
     </message>
     <message>
         <location filename="../memorycardsettingswidget.cpp" line="54"/>
@@ -15750,17 +15752,17 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memorycardsettingswidget.cpp" line="103"/>
         <source>Select Memory Card Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih Direktori Memory Card</translation>
     </message>
     <message>
         <location filename="../memorycardsettingswidget.cpp" line="114"/>
         <source>Memory Card %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Memory Card %1</translation>
     </message>
     <message>
         <location filename="../memorycardsettingswidget.cpp" line="130"/>
         <source>Memory Card Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipe Memory Card:</translation>
     </message>
     <message>
         <location filename="../memorycardsettingswidget.cpp" line="154"/>
@@ -15805,7 +15807,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memoryscannerwindow.ui" line="64"/>
         <source>Search Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter Pencarian</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="70"/>
@@ -15825,12 +15827,12 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memoryscannerwindow.ui" line="103"/>
         <source>Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Desimal</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="108"/>
         <source>Hex</source>
-        <translation type="unfinished">Hex</translation>
+        <translation>Hex</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="118"/>
@@ -15955,7 +15957,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memoryscannerwindow.ui" line="266"/>
         <source>RAM</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="271"/>
@@ -15965,7 +15967,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memoryscannerwindow.ui" line="276"/>
         <source>BIOS</source>
-        <translation type="unfinished">BIOS</translation>
+        <translation>BIOS</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="284"/>
@@ -15975,17 +15977,17 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memoryscannerwindow.ui" line="291"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="300"/>
         <source>New Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencarian Baru</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="310"/>
         <source>Search Again</source>
-        <translation type="unfinished"></translation>
+        <translation>Cari Lagi</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.ui" line="320"/>
@@ -16080,7 +16082,7 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../memoryscannerwindow.cpp" line="320"/>
         <source>Select data size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih ukuran data:</translation>
     </message>
     <message>
         <location filename="../memoryscannerwindow.cpp" line="509"/>
@@ -16113,27 +16115,27 @@ You must delete the memory card manually if you want to save.</source>
     <message>
         <location filename="../../core/negcon.cpp" line="279"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="../../core/negcon.cpp" line="280"/>
         <source>A Button</source>
-        <translation type="unfinished">Tombol A</translation>
+        <translation>Tombol A</translation>
     </message>
     <message>
         <location filename="../../core/negcon.cpp" line="281"/>
         <source>B Button</source>
-        <translation type="unfinished">Tombol B</translation>
+        <translation>Tombol B</translation>
     </message>
     <message>
         <location filename="../../core/negcon.cpp" line="282"/>
         <source>I Button</source>
-        <translation type="unfinished">Tombol I</translation>
+        <translation>Tombol I</translation>
     </message>
     <message>
         <location filename="../../core/negcon.cpp" line="283"/>
         <source>II Button</source>
-        <translation type="unfinished">Tombol II</translation>
+        <translation>Tombol II</translation>
     </message>
     <message>
         <location filename="../../core/negcon.cpp" line="284"/>
@@ -16455,7 +16457,7 @@ Your dump may be corrupted, or the physical disc is scratched.</source>
     <message>
         <location filename="../../core/gpu_thread.cpp" line="750"/>
         <source>Failed to initialize {} renderer, falling back to software renderer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menginisiasi renderer {}, beralih ke renderer software.</translation>
     </message>
     <message>
         <location filename="../../core/gpu_thread.cpp" line="830"/>
@@ -16483,12 +16485,13 @@ Your dump may be corrupted, or the physical disc is scratched.</source>
         <location filename="../../core/imgui_overlays.cpp" line="1304"/>
         <source>Failed to load state from slot {0}:
 {1}</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal memuat save state dari slot {0}:
+{1}</translation>
     </message>
     <message>
         <location filename="../../core/hotkeys.cpp" line="108"/>
         <source>Cannot save state for game without serial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat melakukan save state pada game yang tidak memiliki serial</translation>
     </message>
     <message>
         <location filename="../../core/hotkeys.cpp" line="120"/>
@@ -17608,7 +17611,7 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../core/settings.cpp" line="1275"/>
         <source>PAL (Europe, Australia)</source>
         <comment>ConsoleRegion</comment>
-        <translation type="unfinished"></translation>
+        <translation>PAL (Eropa, Australia)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1307"/>
@@ -17620,13 +17623,13 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../core/settings.cpp" line="1308"/>
         <source>NTSC-U/C (US, Canada)</source>
         <comment>DiscRegion</comment>
-        <translation type="unfinished"></translation>
+        <translation>NTSC-U/C (Amerika Serikat, Kanada)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1309"/>
         <source>PAL (Europe, Australia)</source>
         <comment>DiscRegion</comment>
-        <translation type="unfinished"></translation>
+        <translation>PAL (Eropa, Australia)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1310"/>
@@ -17638,43 +17641,43 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../core/settings.cpp" line="1311"/>
         <source>Non-PS1</source>
         <comment>DiscRegion</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non-PS1</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1344"/>
         <source>Interpreter (Slowest)</source>
         <comment>CPUExecutionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interpreter</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1345"/>
         <source>Cached Interpreter (Faster)</source>
         <comment>CPUExecutionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cached Interpreter (Lebih Cepat)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1346"/>
         <source>Recompiler (Fastest)</source>
         <comment>CPUExecutionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recompiler (Paling Cepat)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1380"/>
         <source>Disabled (Slowest)</source>
         <comment>CPUFastmemMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktif (Paling Lambat)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1381"/>
         <source>MMap (Hardware, Fastest, 64-Bit Only)</source>
         <comment>CPUFastmemMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>MMap (Perangkat Keras, Paling Cepat, Hanya Untuk 64 Bit)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1382"/>
         <source>LUT (Faster)</source>
         <comment>CPUFastmemMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>LUT (Lebih Cepat)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1427"/>
@@ -17776,7 +17779,7 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../core/settings.cpp" line="1549"/>
         <source>MMPX (Slow)</source>
         <comment>GPUTextureFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>MMPX (Lambat)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1550"/>
@@ -18022,43 +18025,43 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../core/settings.cpp" line="1913"/>
         <source>No Rotation</source>
         <comment>DisplayRotation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tanpa Rotasi</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1914"/>
         <source>Rotate 90° (Clockwise)</source>
         <comment>DisplayRotation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rotasi 90° (Searah Jarum Jam)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1915"/>
         <source>Rotate 180° (Vertical Flip)</source>
         <comment>DisplayRotation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rotasi 180° (Putar Vertikal)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1916"/>
         <source>Rotate 270° (Clockwise)</source>
         <comment>DisplayRotation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rotasi 270° (Searah Jarum Jam)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1951"/>
         <source>Auto-Detect</source>
         <comment>ForceVideoTiming</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deteksi Otomatis</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1952"/>
         <source>NTSC (60hz)</source>
         <comment>ForceVideoTiming</comment>
-        <translation type="unfinished"></translation>
+        <translation>NTSC (60hz)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1953"/>
         <source>PAL (50hz)</source>
         <comment>ForceVideoTiming</comment>
-        <translation type="unfinished"></translation>
+        <translation>PAL (50hz)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="1985"/>
@@ -18154,37 +18157,37 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../core/settings.cpp" line="2156"/>
         <source>No Memory Card</source>
         <comment>MemoryCardType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tanpa Memory Card</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2157"/>
         <source>Shared Between All Games</source>
         <comment>MemoryCardType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dibagikan Di Antara Semua Game</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2158"/>
         <source>Separate Card Per Game (Serial)</source>
         <comment>MemoryCardType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Card Terpisah untuk Tiap Game (Serial)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2159"/>
         <source>Separate Card Per Game (Title)</source>
         <comment>MemoryCardType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Card Terpisah untuk Tiap Game (Judul)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2160"/>
         <source>Separate Card Per Game (File Title)</source>
         <comment>MemoryCardType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Card Terpisah untuk Tiap Game (Judul File)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2161"/>
         <source>Non-Persistent Card (Do Not Save)</source>
         <comment>MemoryCardType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Card Tidak Persisten (Jangan Disimpan)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2220"/>
@@ -18220,37 +18223,37 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../core/settings.cpp" line="2287"/>
         <source>Deflate (Low)</source>
         <comment>SaveStateCompressionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deflasi (Rendah)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2288"/>
         <source>Deflate (Default)</source>
         <comment>SaveStateCompressionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deflasi (Bawaan)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2289"/>
         <source>Deflate (High)</source>
         <comment>SaveStateCompressionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deflasi (Tinggi)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2290"/>
         <source>Zstandard (Low)</source>
         <comment>SaveStateCompressionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zstandard (Rendah)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2291"/>
         <source>Zstandard (Default)</source>
         <comment>SaveStateCompressionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zstandard (Bawaan)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2292"/>
         <source>Zstandard (High)</source>
         <comment>SaveStateCompressionMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zstandard (Tinggi)</translation>
     </message>
     <message>
         <location filename="../../core/settings.cpp" line="2328"/>
@@ -18286,19 +18289,19 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../util/audio_stream.cpp" line="253"/>
         <source>Off (Noisy)</source>
         <comment>AudioStretchMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Off (Berisik)</translation>
     </message>
     <message>
         <location filename="../../util/audio_stream.cpp" line="254"/>
         <source>Resampling (Pitch Shift)</source>
         <comment>AudioStretchMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Resampling (Perubahan Nada)</translation>
     </message>
     <message>
         <location filename="../../util/audio_stream.cpp" line="255"/>
         <source>Time Stretch (Tempo Change, Best Sound)</source>
         <comment>AudioStretchMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Time Stretch (Perubahan Tempo, Suara Terbaik)</translation>
     </message>
     <message>
         <location filename="../../util/media_capture.cpp" line="2917"/>
@@ -18310,7 +18313,7 @@ Apakah Anda ingin membuat direktori ini?</translation>
         <location filename="../../util/media_capture.cpp" line="2920"/>
         <source>FFmpeg</source>
         <comment>MediaCaptureBackend</comment>
-        <translation type="unfinished"></translation>
+        <translation>FFmpeg</translation>
     </message>
 </context>
 <context>
@@ -18497,7 +18500,7 @@ Apakah Anda ingin membuat direktori ini?</translation>
     <message>
         <location filename="../settingswindow.cpp" line="143"/>
         <source>Post-Processing</source>
-        <translation>Post Processing</translation>
+        <translation>Post-Processing</translation>
     </message>
     <message>
         <location filename="../settingswindow.cpp" line="145"/>
@@ -18627,7 +18630,7 @@ Apakah Anda ingin melanjutkan?</translation>
     <message>
         <location filename="../setupwizarddialog.ui" line="119"/>
         <source>RetroAchievements</source>
-        <translation type="unfinished"></translation>
+        <translation>RetroAchievements</translation>
     </message>
     <message>
         <location filename="../setupwizarddialog.ui" line="126"/>
@@ -18662,22 +18665,22 @@ Apakah Anda ingin melanjutkan?</translation>
     <message>
         <location filename="../setupwizarddialog.ui" line="345"/>
         <source>NTSC-J (Japan):</source>
-        <translation type="unfinished"></translation>
+        <translation>NTSC-J (Jepang)</translation>
     </message>
     <message>
         <location filename="../setupwizarddialog.ui" line="362"/>
         <source>NTSC-U/C (US/Canada):</source>
-        <translation type="unfinished"></translation>
+        <translation>NTSC-U/C (Amerika Serikat/Kanada)</translation>
     </message>
     <message>
         <location filename="../setupwizarddialog.ui" line="379"/>
         <source>PAL (Europe, Australia):</source>
-        <translation type="unfinished"></translation>
+        <translation>PAL (Eropa, Australia)</translation>
     </message>
     <message>
         <location filename="../setupwizarddialog.ui" line="413"/>
         <source>Open in Explorer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka di Explorer...</translation>
     </message>
     <message>
         <location filename="../setupwizarddialog.ui" line="458"/>
@@ -18787,7 +18790,7 @@ Apakah Anda ingin melanjutkan?</translation>
     <message>
         <location filename="../setupwizarddialog.ui" line="902"/>
         <source>PGXP Geometry Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreksi Geometri</translation>
     </message>
     <message>
         <location filename="../setupwizarddialog.ui" line="911"/>
@@ -19012,7 +19015,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../setupwizarddialog.cpp" line="471"/>
         <source>Multiple Devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Beberapa Perangkat...</translation>
     </message>
     <message>
         <location filename="../setupwizarddialog.cpp" line="670"/>
@@ -19074,7 +19077,7 @@ Once dumped, this BIOS image should be placed in the bios folder within the data
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="1512"/>
         <source>Failed to boot system: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal untuk boot sistem: {}</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="7278"/>
@@ -19084,12 +19087,12 @@ Once dumped, this BIOS image should be placed in the bios folder within the data
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="7287"/>
         <source>Failed to load state: {}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gagal memuat save state: {}</translation>
     </message>
     <message>
         <location filename="../../core/fullscreen_ui.cpp" line="7314"/>
         <source>Failed to save state: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuat save state: {}</translation>
     </message>
     <message>
         <location filename="../../core/gpu_hw.cpp" line="205"/>
@@ -19110,7 +19113,7 @@ This may be due to your GPU not supporting the chosen renderer ({1}), or because
         <location filename="../../core/system.cpp" line="686"/>
         <source>CPU Overclock</source>
         <comment>Taint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Overclock CPU</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="687"/>
@@ -19134,7 +19137,7 @@ This may be due to your GPU not supporting the chosen renderer ({1}), or because
         <location filename="../../core/system.cpp" line="690"/>
         <source>8MB RAM</source>
         <comment>Taint</comment>
-        <translation type="unfinished"></translation>
+        <translation>RAM 8MB</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="691"/>
@@ -19151,12 +19154,12 @@ This may be due to your GPU not supporting the chosen renderer ({1}), or because
     <message>
         <location filename="../../core/system.cpp" line="2412"/>
         <source>This save state was created with a different BIOS. This may cause stability issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Save state ini dibuat menggunakan BIOS yang berbeda. Isu stabilitas mungkin terjadi.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="2481"/>
         <source>WARNING: CPU overclock ({}%) was different in save state ({}%).</source>
-        <translation type="unfinished"></translation>
+        <translation>PERINGATAN: Overclock CPU ({}%) berbeda dengan save state ({}%).</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="2842"/>
@@ -19183,7 +19186,7 @@ This may be due to your GPU not supporting the chosen renderer ({1}), or because
     <message>
         <location filename="../../core/system.cpp" line="3166"/>
         <source>Cannot save state while memory card is being saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat membuat save state ketika sedang menyimpan di memory card.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="3180"/>
@@ -19193,13 +19196,14 @@ This may be due to your GPU not supporting the chosen renderer ({1}), or because
     <message>
         <location filename="../../core/system.cpp" line="3228"/>
         <source>State saved to &apos;{}&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Save state disimpan di &apos;{}&apos;.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="3234"/>
         <source>Failed to save state to &apos;{0}&apos;:
 {1}</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuat save state di &apos;{0}&apos;:
+{1}</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="3773"/>
@@ -19224,7 +19228,7 @@ This may be due to your GPU not supporting the chosen renderer ({1}), or because
     <message>
         <location filename="../../core/system.cpp" line="4091"/>
         <source>Game changed, reloading memory cards.</source>
-        <translation type="unfinished"></translation>
+        <translation>Game diganti, memuat kembali memory card.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4242"/>
@@ -19263,7 +19267,7 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="4356"/>
         <source>Current game does not have multiple discs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Game ini hanya memiliki satu disk.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4378"/>
@@ -19283,7 +19287,7 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="4407"/>
         <source>No disc found for serial {}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ditemukan disk untuk serial {}.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4822"/>
@@ -19294,7 +19298,7 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="4855"/>
         <source>CPU clock speed is set to {}% ({} / {}). This may crash games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clock speed CPU diatur di {}% ({} / {}). Game mungkin crash.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4861"/>
@@ -19319,7 +19323,7 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="4883"/>
         <source>8MB RAM is enabled, this may be incompatible with some games.</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM 8MB diaktifkan, beberapa game mungkin tidak kompatibel.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4888"/>
@@ -19334,22 +19338,22 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="4904"/>
         <source>Fastmem mode is set to {}, this will reduce performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fastmem diatur ke {}, performa mungkin berkurang</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4911"/>
         <source>Safe mode is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode aman (safe mode) diaktifkan.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4922"/>
         <source>Overclock disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Overclock dinonaktifkan.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4924"/>
         <source>8MB RAM disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM 8MB dinonaktifkan.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4926"/>
@@ -19389,7 +19393,7 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="4943"/>
         <source>PGXP disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>PGXP dinonaktifkan.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4945"/>
@@ -19434,17 +19438,17 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="4961"/>
         <source>PCDrv disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>PCDrv dinonaktifkan.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4963"/>
         <source>Fast boot disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan boot cepat (fast boot).</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4971"/>
         <source>Compatibility settings are not enabled. Some games may not function correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan kompabilitas tidak diaktifkan. Beberapa game mungkin tidak berjalan dengan benar.</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="4975"/>
@@ -19454,7 +19458,7 @@ The name of the SBI file must match the name of the disc image.</source>
     <message>
         <location filename="../../core/system.cpp" line="5248"/>
         <source>Failed to save resume state: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal melanjutkan save state: {}</translation>
     </message>
     <message>
         <location filename="../../core/system.cpp" line="5417"/>
