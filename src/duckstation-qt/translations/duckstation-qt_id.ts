@@ -886,22 +886,22 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="201"/>
         <source>Logs messages to the console window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencatat pesan log ke console window.</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="203"/>
         <source>Logs messages to the debug console where supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencatat pesan log ke debug konsol yang didukung.</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="205"/>
         <source>Logs messages to the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencatat pesan log ke window.</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="207"/>
         <source>Logs messages to duckstation.log in the user directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencatat pesan log di duckStation.log di direktori pengguna.</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="208"/>
@@ -916,17 +916,17 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="231"/>
         <source>Apply Game Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Terapkan Pengaturan Game</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="235"/>
         <source>Apply Compatibility Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Terapkan Pengaturan Kompabilitas</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="237"/>
         <source>Load Devices From Save States</source>
-        <translation type="unfinished"></translation>
+        <translation>Muat Perangkat dari Save State</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="239"/>
@@ -936,7 +936,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="245"/>
         <source>Disable Window Rounded Corners</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan Sudut Window Bulat (Rounded)</translation>
     </message>
     <message>
         <location filename="../advancedsettingswidget.cpp" line="250"/>
@@ -2032,18 +2032,19 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="526"/>
         <source>&lt;h2&gt;Save State Warning&lt;/h2&gt;&lt;p&gt;Installing this update will make your save states &lt;b&gt;incompatible&lt;/b&gt;. Please ensure you have saved your games to memory card before installing this update or you will lose progress.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h2&gt;Peringatan Save State&lt;/h2&gt;&lt;p&gt;Pemasangan pembaruan ini akan membuat save state Anda &lt;b&gt;tidak kompatibel&lt;/b&gt;. Pastikan Anda telah menyimpan game ke memory card sebelum memasang pembaruan atau progres Anda akan hilang.</translation>
     </message>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="538"/>
         <source>&lt;h4&gt;Installing this update will download %1 MB through your internet connection.&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h4&gt;Pemasangan pembaruan ini akan mengunduh %1 MB melalui koneksi internet Anda.&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="805"/>
         <source>Failed to remove updater exe after update:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal untuk menghapus updater exe setelah pembaruan:
+%1</translation>
     </message>
     <message>
         <location filename="../autoupdaterdialog.cpp" line="448"/>
@@ -2118,13 +2119,13 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../biossettingswidget.ui" line="188"/>
         <location filename="../biossettingswidget.cpp" line="99"/>
         <source>Cartridge Switch On</source>
-        <translation type="unfinished"></translation>
+        <translation>Switch Cartridge On</translation>
     </message>
     <message>
         <location filename="../biossettingswidget.ui" line="195"/>
         <location filename="../biossettingswidget.cpp" line="103"/>
         <source>Allow Image Writes</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan Image Writes</translation>
     </message>
     <message>
         <location filename="../biossettingswidget.ui" line="207"/>
@@ -2135,12 +2136,12 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../biossettingswidget.ui" line="213"/>
         <location filename="../biossettingswidget.cpp" line="106"/>
         <source>Enable TTY Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan Logging TTY</translation>
     </message>
     <message>
         <location filename="../biossettingswidget.ui" line="29"/>
         <source>BIOS Selection</source>
-        <translation>Pilihan BIOS</translation>
+        <translation>Seleksi BIOS</translation>
     </message>
     <message>
         <location filename="../biossettingswidget.cpp" line="76"/>
@@ -2160,7 +2161,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../biossettingswidget.cpp" line="95"/>
         <source>Simulates a device plugged into the console&apos;s parallel port. Usually these are flash cartridges, and require some sort of image dump to function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensimulasi sebuah perangkat tersambung ke port paralel konsol. Biasanya terdapat flash cartridge, dan membutuhkan image dump untuk berfungsi.</translation>
     </message>
     <message>
         <location filename="../biossettingswidget.cpp" line="97"/>
@@ -2195,7 +2196,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../biossettingswidget.cpp" line="107"/>
         <source>Logs BIOS calls to printf(). Not all games contain debugging messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Log BIOS call ke printf(). Tidak semua game memiliki pesan debugging.</translation>
     </message>
     <message>
         <location filename="../biossettingswidget.cpp" line="135"/>
@@ -2242,7 +2243,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="836"/>
         <source>Enter name for the code group. Using backslashes (\) will create sub-trees.</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan nama untuk grup kode. Penggunaan backslash (\) akan membuat substruktur (sub-tree).</translation>
     </message>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="864"/>
@@ -2265,7 +2266,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="887"/>
         <source>A code with the name &apos;%1&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sebuah kode dengan nama &apos;%1&apos; telah ada.</translation>
     </message>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="926"/>
@@ -2277,7 +2278,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="969"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak Terkelompok</translation>
     </message>
     <message>
         <location filename="../gamecheatsettingswidget.cpp" line="974"/>
@@ -2300,7 +2301,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../../core/cheats.cpp" line="330"/>
         <source>Automatic (Frame End)</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatis (Frame End)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../core/cheats.cpp" line="1020"/>
@@ -2314,45 +2315,45 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../../core/cheats.cpp" line="1027"/>
         <source>%n cheats are enabled. This may crash games.</source>
         <comment>OSD Message</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n cheat telah diaktifkan. Game mungkin crash.</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../core/cheats.cpp" line="1035"/>
         <source>No cheats/patches are found or enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada cheat/patch yang ditemukan atau diaktifkan.</translation>
     </message>
     <message numerus="yes">
         <location filename="../../core/cheats.cpp" line="1054"/>
         <source>%n cheats</source>
         <comment>Cheats blocked by hardcore mode</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Cheat diblok oleh mode hardcore.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../core/cheats.cpp" line="1056"/>
         <source>%n patches</source>
         <comment>Patches blocked by hardcore mode</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Patch diblok oleh mode hardcore.</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../core/cheats.cpp" line="1059"/>
         <source>{0} and {1} disabled by achievements hardcore mode/safe mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>{0} dan {1} dinonaktifkan oleh pencapaian mode hardcore/safe mode.</translation>
     </message>
     <message>
         <location filename="../../core/cheats.cpp" line="1061"/>
         <source>{} disabled by achievements hardcore mode/safe mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>{} dinonaktifkan oleh pencapaian mode hardcore/safe mode.</translation>
     </message>
     <message>
         <location filename="../../core/cheats.cpp" line="1094"/>
         <source>Cheat &apos;{}&apos; applied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheat &apos;{}&apos; diterapkan.</translation>
     </message>
 </context>
 <context>
@@ -2564,24 +2565,24 @@ Posisi Papan Pencapaian: {} of {}</translation>
         <location filename="../consolesettingswidget.ui" line="322"/>
         <location filename="../consolesettingswidget.cpp" line="133"/>
         <source>Apply Image Patches</source>
-        <translation type="unfinished"></translation>
+        <translation>Terapkan Patch Image</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="329"/>
         <location filename="../consolesettingswidget.cpp" line="141"/>
         <source>Ignore Drive Subcode</source>
-        <translation type="unfinished"></translation>
+        <translation>Abaikan Subcode Drive</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.ui" line="336"/>
         <location filename="../consolesettingswidget.cpp" line="137"/>
         <source>Switch to Next Disc on Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ganti ke Disk Selanjutnya ketika Stop</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="86"/>
         <source>Region</source>
-        <translation type="unfinished">Region</translation>
+        <translation>Daerah</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="86"/>
@@ -2596,7 +2597,7 @@ Posisi Papan Pencapaian: {} of {}</translation>
     <message>
         <location filename="../consolesettingswidget.cpp" line="89"/>
         <source>Force Video Timing</source>
-        <translation type="unfinished"></translation>
+        <translation>Paksa Video Timing</translation>
     </message>
     <message>
         <location filename="../consolesettingswidget.cpp" line="89"/>
@@ -2825,7 +2826,7 @@ This warning will only be shown once.</source>
     <message>
         <location filename="../controllerbindingwidgets.cpp" line="278"/>
         <source>Multiple devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Banyak perangkat...</translation>
     </message>
     <message>
         <location filename="../controllerbindingwidgets.cpp" line="283"/>
@@ -2845,7 +2846,7 @@ This warning will only be shown once.</source>
     <message>
         <location filename="../controllerbindingwidgets.cpp" line="445"/>
         <source>No devices were selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada perangkat yang terpilih.</translation>
     </message>
     <message>
         <location filename="../controllerbindingwidgets.cpp" line="502"/>
@@ -4677,7 +4678,7 @@ All bindings and configuration will be lost. You cannot undo this action.</sourc
     <message>
         <location filename="../debuggerwindow.ui" line="392"/>
         <source>Ctrl+F10</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F10</translation>
     </message>
     <message>
         <location filename="../debuggerwindow.ui" line="400"/>
@@ -4692,7 +4693,7 @@ All bindings and configuration will be lost. You cannot undo this action.</sourc
     <message>
         <location filename="../debuggerwindow.ui" line="406"/>
         <source>Ctrl+Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Del</translation>
     </message>
     <message>
         <location filename="../debuggerwindow.ui" line="414"/>
@@ -4985,7 +4986,7 @@ This file can be several gigabytes, so be aware of SSD wear.</source>
     <message>
         <location filename="../qthost.cpp" line="1154"/>
         <source>Memory Card Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Memory Card Sibuk</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1155"/>
@@ -4997,45 +4998,47 @@ Do you want to %1 anyway?</source>
     <message>
         <location filename="../qthost.cpp" line="1179"/>
         <source>shut down</source>
-        <translation type="unfinished"></translation>
+        <translation>matikan</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1201"/>
         <source>reset</source>
-        <translation type="unfinished"></translation>
+        <translation>reset</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1235"/>
         <source>change disc</source>
-        <translation type="unfinished"></translation>
+        <translation>ganti disk</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1266"/>
         <source>Failed to switch to subimage %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal untuk pindah ke subimage %1</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1383"/>
         <source>Confirm Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmasi Unduh</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1384"/>
         <source>Your DuckStation installation does not have the padtest application available.
 
 This file is approximately 206KB, do you want to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalasi DuckStation Anda tidak memiliki aplikasi padtest tersedia.
+        
+Ukuran file sekitar 206KB, apakan Anda ingin untuk mengunduhnya sekarang?</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1390"/>
         <source>File Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Unduh File</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1500"/>
         <location filename="../qthost.cpp" line="1521"/>
         <source>Failed to save state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal untuk save state: %1</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="1668"/>
@@ -5057,12 +5060,12 @@ This file is approximately 206KB, do you want to download it now?</source>
     <message>
         <location filename="../qthost.cpp" line="2478"/>
         <source>Game: %1 FPS</source>
-        <translation type="unfinished"></translation>
+        <translation>Game: %1 FPS</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="2488"/>
         <source>Video: %1 FPS (%2%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Video: %1 FPS (%2%)</translation>
     </message>
     <message>
         <location filename="../qthost.cpp" line="835"/>
@@ -5086,7 +5089,7 @@ This file is approximately 206KB, do you want to download it now?</source>
     <message>
         <location filename="../emulationsettingswidget.ui" line="35"/>
         <source>Emulation Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kecepata Emulasi:</translation>
     </message>
     <message>
         <location filename="../emulationsettingswidget.ui" line="45"/>
@@ -5096,18 +5099,18 @@ This file is approximately 206KB, do you want to download it now?</source>
     <message>
         <location filename="../emulationsettingswidget.ui" line="55"/>
         <source>Turbo Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kecepatan Turbo:</translation>
     </message>
     <message>
         <location filename="../emulationsettingswidget.ui" line="68"/>
         <source>Latency Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrol Latensi</translation>
     </message>
     <message>
         <location filename="../emulationsettingswidget.ui" line="74"/>
         <location filename="../emulationsettingswidget.cpp" line="120"/>
         <source>Reduce Input Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurangi Latensi Input</translation>
     </message>
     <message>
         <location filename="../emulationsettingswidget.ui" line="81"/>
@@ -5129,7 +5132,7 @@ This file is approximately 206KB, do you want to download it now?</source>
     <message>
         <location filename="../emulationsettingswidget.ui" line="118"/>
         <source> Milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation> Milidetik</translation>
     </message>
     <message>
         <location filename="../emulationsettingswidget.ui" line="136"/>
@@ -5149,7 +5152,7 @@ This file is approximately 206KB, do you want to download it now?</source>
     <message>
         <location filename="../emulationsettingswidget.ui" line="156"/>
         <source> Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation> Detik</translation>
     </message>
     <message>
         <location filename="../emulationsettingswidget.ui" line="169"/>
@@ -5159,7 +5162,7 @@ This file is approximately 206KB, do you want to download it now?</source>
     <message>
         <location filename="../emulationsettingswidget.ui" line="176"/>
         <source> Frames</source>
-        <translation type="unfinished"></translation>
+        <translation> Frame</translation>
     </message>
     <message>
         <location filename="../emulationsettingswidget.ui" line="189"/>
@@ -11874,7 +11877,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.ui" line="235"/>
         <location filename="../graphicssettingswidget.cpp" line="414"/>
         <source>Force 4:3 For FMVs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paksa 4:3 untuk FMV</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="242"/>
@@ -11891,7 +11894,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.ui" line="256"/>
         <location filename="../graphicssettingswidget.cpp" line="406"/>
         <source>PGXP Geometry Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreksi Geometri PGXP</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="263"/>
@@ -11912,7 +11915,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.ui" line="330"/>
         <source>Screen Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisi Layar:</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="349"/>
@@ -11972,12 +11975,12 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.ui" line="478"/>
         <source>PGXP</source>
-        <translation type="unfinished"></translation>
+        <translation>PGXP</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="505"/>
         <source>Geometry Tolerance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toleransi Geometri:</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="534"/>
@@ -12006,7 +12009,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.ui" line="571"/>
         <location filename="../graphicssettingswidget.cpp" line="493"/>
         <source>CPU Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode CPU</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="578"/>
@@ -12018,7 +12021,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.ui" line="585"/>
         <location filename="../graphicssettingswidget.cpp" line="487"/>
         <source>Culling Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreksi Culling</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="592"/>
@@ -12040,43 +12043,43 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.ui" line="689"/>
         <source>Theme:</source>
-        <translation type="unfinished">Tema:</translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="708"/>
         <location filename="../graphicssettingswidget.cpp" line="516"/>
         <source>Show OSD Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilak Pesan OSD</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="722"/>
         <location filename="../graphicssettingswidget.cpp" line="531"/>
         <source>Show GPU Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Statistik GPU</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="729"/>
         <location filename="../graphicssettingswidget.cpp" line="522"/>
         <source>Show Emulation Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Kecepatan Emulasi</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="750"/>
         <location filename="../graphicssettingswidget.cpp" line="544"/>
         <source>Show Status Indicators</source>
-        <translation type="unfinished">Tampilkan Indikator Status</translation>
+        <translation>Tampilkan Indikator Status</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="757"/>
         <location filename="../graphicssettingswidget.cpp" line="540"/>
         <source>Show Controller Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Input Controller</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="778"/>
         <location filename="../graphicssettingswidget.cpp" line="534"/>
         <source>Show Latency Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Statistik Latensi</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="804"/>
@@ -12096,7 +12099,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.ui" line="874"/>
         <source>Backend:</source>
-        <translation type="unfinished">Backend:</translation>
+        <translation>Backend:</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="1072"/>
@@ -12112,7 +12115,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.ui" line="1293"/>
         <source>Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>Debugging</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="1311"/>
@@ -12122,7 +12125,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.ui" line="1317"/>
         <source>Dump Compression Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode Kompresi Dump:</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="1327"/>
@@ -12132,7 +12135,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.ui" line="1337"/>
         <source>Device Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Perangkat</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="1350"/>
@@ -12144,7 +12147,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.ui" line="1364"/>
         <location filename="../graphicssettingswidget.cpp" line="663"/>
         <source>Disable Compressed Textures</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan Tekstur Terkompres</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="1371"/>
@@ -12167,7 +12170,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.ui" line="1399"/>
         <location filename="../graphicssettingswidget.cpp" line="654"/>
         <source>Disable Memory Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan Impor Memory</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="1406"/>
@@ -12179,7 +12182,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.ui" line="1413"/>
         <location filename="../graphicssettingswidget.cpp" line="660"/>
         <source>Disable Compute Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan Compute Shaders</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.ui" line="289"/>
@@ -12322,7 +12325,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
         <location filename="../graphicssettingswidget.cpp" line="583"/>
         <location filename="../graphicssettingswidget.cpp" line="597"/>
         <source>Empty</source>
-        <translation type="unfinished">Kosong</translation>
+        <translation>Kosong</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.cpp" line="587"/>
@@ -12342,7 +12345,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../graphicssettingswidget.cpp" line="592"/>
         <source>128 kbps</source>
-        <translation type="unfinished">160 kbps {128 ?}</translation>
+        <translation>128 kbps</translation>
     </message>
     <message>
         <location filename="../graphicssettingswidget.cpp" line="594"/>
@@ -12587,7 +12590,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../../core/guncon.cpp" line="298"/>
         <source>Cursor Color</source>
-        <translation type="unfinished">Warna Kursor</translation>
+        <translation>Warna Kursor</translation>
     </message>
     <message>
         <location filename="../../core/guncon.cpp" line="299"/>
@@ -12610,7 +12613,7 @@ Pemindaian rekursif akan membuat proses pencarian menjadi lebih lama, namun dapa
     <message>
         <location filename="../hotkeysettingswidget.cpp" line="30"/>
         <source>Search...</source>
-        <translation type="unfinished">Cari...</translation>
+        <translation>Cari...</translation>
     </message>
 </context>
 <context>
@@ -17089,7 +17092,7 @@ Using existing image &apos;{}&apos;, this may result in instability.</source>
     <message>
         <location filename="../postprocessingsettingswidget.cpp" line="630"/>
         <source>Failed to save file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal untuk menyimpan file:</translation>
     </message>
 </context>
 <context>
